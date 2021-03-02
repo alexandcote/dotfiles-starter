@@ -1,0 +1,8 @@
+# Configuration
+# --------------------------------------
+
+source $HOME/.zsh/config/variables.zsh
+source $HOME/.zsh/config/aliases.zsh
+
+plugins=(git)
+source $ZSH/oh-my-zsh.sh

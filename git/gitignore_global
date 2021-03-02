@@ -1,0 +1,45 @@
+# OS X
+.DS_Store?
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows
+ehthumbs.db
+Thumbs.db
+
+# Vim
+.local.vimrc
+.lvimrc
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# Ruby
+.sass-cache
+.rbenv-vars
+.rvmrc
+.ruby-version
+.exenv-version
+
+# Ctags?
+tags
+tags-ja
+
+# Node
+node_modules
+npm-debug.log
+
+# Environment
+.env
+.env.development
+.env.test
+
+# IDE
+.idea
+*.iml
+*.sublime-project
+*.sublime-workspace
